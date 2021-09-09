@@ -2,6 +2,7 @@ name: Tweet new RSS Feed items FWTV
 on:
   rss:
     url: 
+      - https://www.vrt.be/vrtnws/nl.rss.articles.xml
       - http://www.focus-wtv.be/feed/kortrijk/rss.xml
       - http://www.nieuwsblad.be/rss/section/bf9eeee6-51e0-49e8-ad4a-791dcc2f63ae?intro=1
 jobs:
